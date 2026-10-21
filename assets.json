@@ -1,0 +1,15 @@
+{
+    "offensive": [
+        {"name": "Actiuni SUA - S&P 500", "ticker": "SXR8.DE", "isin": "IE00B5BMR087"},
+        {"name": "Actiuni internationale - ex SUA", "ticker": "EXUS.DE", "isin": "IE0006WW1TQ4"},
+        {"name": "Actiuni piete emergente", "ticker": "EIMI.L", "isin": "IE00BKM4GZ66"},
+        {"name": "Actiuni sector hot - Energie", "ticker": "QDVF.DE", "isin": "IE00B42NKQ00"},
+        {"name": "Actiuni sector hot - Energie", "ticker": "ZPDE.DE", "isin": "IE00BWBXM492"}
+    ],
+    "defensive": [
+        {"name": "Obligatiuni corporative SUA", "ticker": "VUCE.DE", "isin": "IE00BGYWFK87"},
+        {"name": "Obligatiuni guv. SUA - Termen scurt", "ticker": "IB01.L", "isin": "IE00BLRPPV00"},
+        {"name": "Aur", "ticker": "PPFB.DE", "isin": "IE00B4ND3602"},
+        {"name": "Cash/Altul", "ticker": "8PSG.DE", "isin": "IE00B579F325"}
+    ]
+}
